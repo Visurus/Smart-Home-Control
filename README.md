@@ -1,7 +1,7 @@
 # Smart-Home-Control
 
 ##### Abstract
-This is a smarthome system where one can make the place smarter. You can view all the reading anytime, check when your family members left the house. Helps you keep the house alive. 
+This is a smart home system where one can make the place smarter. You can view all the reading anytime, check when your family members left the house. Helps you keep the house alive. 
 
 ##### Introduction
 The need of today world is a home that can learn from one. One could be able to control it from anywhere, tells us about any unauthorised entry and help us tackle emergency situations. It should learn from users habits. It should be a place which understands the user and is always ready on one’s command. It should touch every aspect of human life
